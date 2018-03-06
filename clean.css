@@ -45,6 +45,9 @@ ul {
 ol {
   margin: 1rem;
 }
+img {
+  width: 100%;
+}
 
 a {
   color: #f06040;
